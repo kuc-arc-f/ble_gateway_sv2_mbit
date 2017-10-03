@@ -34,8 +34,8 @@ https://github.com/IanHarvey/bluepy
 
 
 * http_func.py -- http send URL, setting 
-* ble_gateway_sv.py send_http() -- request param setting
-* sudo python ble_gateway_sv2.py
+* ble_gateway_sv2_mbit.py send_http() -- request param setting
+* sudo python ble_gateway_sv2_mbit.py
 
 ***
 
